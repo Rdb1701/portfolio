@@ -348,10 +348,7 @@ export default function Portfolio() {
             <div className="space-y-8">
               <div>
                 <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
-                  Crafting Digital
-                  <span className="block bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
-                    Experiences
-                  </span>
+                  About Me
                 </h2>
                 <div className="w-20 h-1 bg-gradient-to-r from-emerald-500 to-teal-500 rounded-full mb-8"></div>
               </div>
