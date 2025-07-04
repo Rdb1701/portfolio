@@ -296,9 +296,8 @@ export default function Portfolio() {
                   </span>
                 </h1>
                 <p className="text-xl md:text-2xl text-slate-300 mb-8 max-w-4xl mx-auto leading-relaxed">
-                  Full-Stack Developer crafting{" "}
-                  <span className="text-emerald-400 font-semibold">innovative digital solutions</span> that bridge
-                  technology and human experience
+                  Full-Stack Developer passionate about creating beautiful,
+                functional, and user-centered digital experiences.
                 </p>
                 <div className="flex flex-wrap gap-4 justify-center items-center mb-8">
                   <Badge variant="default" className="text-sm py-2 px-4">
