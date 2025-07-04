@@ -565,10 +565,6 @@ export default function Portfolio() {
             <div className="grid md:grid-cols-2 gap-12">
               <div>
                 <h3 className="text-2xl font-bold text-white mb-6">Ready to collaborate?</h3>
-                <p className="text-slate-300 mb-8 leading-relaxed">
-                  Whether you have a project in mind, need technical consultation, or just want to discuss the latest in
-                  web development, I'd love to hear from you.
-                </p>
                 <div className="space-y-6">
                   {[
                     {
@@ -629,7 +625,7 @@ export default function Portfolio() {
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-slate-400">
-              © {new Date().getFullYear()} Ronald Besinga. Crafted with passion using Next.js & Tailwind CSS.
+              © {new Date().getFullYear()} Ronald Besinga. Created using Next.js & Tailwind CSS.
             </div>
             <div className="flex space-x-6">
               {[
