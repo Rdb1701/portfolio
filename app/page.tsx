@@ -360,7 +360,7 @@ export default function Portfolio() {
                 experience in building scalable and dynamic applications. With a
                 strong background in Laravel & React.js. I specialize in creating modern, responsive websites
                 and mobile apps tailored to clients needs. I have hands-on
-                experience working with PHP, MySQL, and SQL. allowing
+                experience working with PHP, MySQL, and SQL allowing
                 me to build backend systems and APIs. I'm proficient in
                 using Git for version control and have worked extensively with
                 jQuery for dynamic frontend interactions.
