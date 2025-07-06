@@ -308,7 +308,7 @@ export default function Portfolio() {
               </div>
               <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
                 <a
-                  href="https://drive.google.com/file/d/1roiqEYLhPKZyfen3dbIhabBwZXFBKa_6/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1ay5f16c0ukXr3sTiKhuhBa7_xEbT7FOU/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
